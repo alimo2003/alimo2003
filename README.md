@@ -1,17 +1,11 @@
 ## 👋 Hi, I'm Ali Mohamed
 
-I'm a Cybersecurity professional passionate about Security Operations (SOC), Threat Detection and Artificial Intelligence.
+I'm a Cybersecurity Engineer and a Computer Science graduate from the Arab Academy for Science, Technology and Maritime Transport (AAST), currently pursuing a Master's degree in Cybersecurity. I currently work as an IT Specialist while continuing to expand my knowledge in defensive security, incident response, and threat detection.
 
-I enjoy building practical cybersecurity solutions that leverage AI and machine learning to detect and respond to security threats. My interests include malware analysis, network security, threat intelligence, digital forensics, and developing scalable defensive systems using Python.
+I enjoy solving real-world security problems, building cybersecurity tools with Python, and exploring how AI can improve cyber defense. When I'm not working on projects, you'll usually find me solving CTFs, completing TryHackMe and Hack The Box labs, or researching new attack techniques and defensive strategies to sharpen my skills.
 
-### Areas of Interest
-- 🔐 Cybersecurity & Information Security
-- 🛡️ Security Operations Center (SOC)
-- 🤖 AI & Machine Learning for Cybersecurity
-- 🌐 Network Security
-- 📊 Threat Detection & Threat Intelligence
-- 🔍 Malware Analysis & Reverse Engineering
-- 🧪 Digital Forensics
-- 🐍 Python Development
+Throughout my journey, I've completed internships in SOC operations, banking infrastructure, and networking, where I gained hands-on experience with incident monitoring, SIEM, network troubleshooting, phishing investigations, and security operations. I also served as a cybersecurity instructor, helping students learn Linux and cybersecurity fundamentals while organizing technical events and workshops.
 
-I'm committed to continuous learning, exploring emerging technologies, and contributing to projects that enhance cyber defense. I'm always open to collaborating on innovative cybersecurity and AI initiatives.
+Some of my proudest achievements include earning an **A+** for my graduation project, completing the **Google Cybersecurity Professional Certificate**, achieving the **TryHackMe SOC Analyst Level 1** path, participating in **ECPC** and **IUGRC**, and continuously challenging myself through CTF competitions and cybersecurity labs.
+
+I'm always looking for opportunities to learn, collaborate, and contribute to projects that make technology more secure.
