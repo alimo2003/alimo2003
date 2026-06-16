@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ali Mohamed
 
-I'm a Cybersecurity Engineer passionate about Security Operations (SOC), Threat Detection, Artificial Intelligence, and Secure Software Development.
+I'm a Cybersecurity professional passionate about Security Operations (SOC), Threat Detection and Artificial Intelligence.
 
 I enjoy building practical cybersecurity solutions that leverage AI and machine learning to detect and respond to security threats. My interests include malware analysis, network security, threat intelligence, digital forensics, and developing scalable defensive systems using Python.
 
