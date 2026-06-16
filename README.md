@@ -1,5 +1,17 @@
+## 👋 Hi, I'm Ali Mohamed
 
-<!---
-alimo2003/alimo2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Cybersecurity Engineer passionate about Security Operations (SOC), Threat Detection, Artificial Intelligence, and Secure Software Development.
+
+I enjoy building practical cybersecurity solutions that leverage AI and machine learning to detect and respond to security threats. My interests include malware analysis, network security, threat intelligence, digital forensics, and developing scalable defensive systems using Python.
+
+### Areas of Interest
+- 🔐 Cybersecurity & Information Security
+- 🛡️ Security Operations Center (SOC)
+- 🤖 AI & Machine Learning for Cybersecurity
+- 🌐 Network Security
+- 📊 Threat Detection & Threat Intelligence
+- 🔍 Malware Analysis & Reverse Engineering
+- 🧪 Digital Forensics
+- 🐍 Python Development
+
+I'm committed to continuous learning, exploring emerging technologies, and contributing to projects that enhance cyber defense. I'm always open to collaborating on innovative cybersecurity and AI initiatives.
